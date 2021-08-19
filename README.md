@@ -35,7 +35,7 @@ int kthSmallest(TreeNode* root, int k) {
     }
     return -1;
 }
-
+```
 
 
 ## 测试用例
